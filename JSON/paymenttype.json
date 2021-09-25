@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "payment_type": "School Fees (Private Schools)",
+        "ref_no": "001"
+    },
+    {
+        "id": "2",
+        "payment_type": "Plateau Health Subscription",
+        "ref_no": "002"
+    },
+    {
+        "id": "3",
+        "payment_type": "ESUT Payments",
+        "ref_no": "003"
+    },
+    {
+        "id": "4",
+        "payment_type": "ESCET Payments",
+        "ref_no": "004"
+    },
+    {
+        "id": "5",
+        "payment_type": "IMT Payments",
+        "ref_no": "005"
+    },
+    {
+        "id": "6",
+        "payment_type": "GOUNI Payments",
+        "ref_no": "006"
+    },
+    {
+        "id": "7",
+        "payment_type": "SafePay Topup",
+        "ref_no": "007"
+    }
+]
